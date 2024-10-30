@@ -1,5 +1,5 @@
 
-# README for `U_Net_Pneumothorax_Segmentation.ipynb`
+# Pneumathorax Segmentation with U-Net
 
 ---
 
